@@ -1,2 +1,3 @@
 Jotain tekstiä.
 Lisää teksitä.
+git add -p testausta
