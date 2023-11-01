@@ -1,2 +1,0 @@
-Hakemistossa dir1 oleva tiedosto.
-git add -p testausta
