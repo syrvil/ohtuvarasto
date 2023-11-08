@@ -21,7 +21,5 @@ def main():
     print(f"Mehuvarasto: {mehua}")
     print("Otetaan 3.14")
 
-    saatu_maara = mehua.ota_varastosta(3.14)
-
 if __name__ == "__main__":
     main()
